@@ -3,7 +3,7 @@ displayName: Request/response logger
 type: middleware
 iconPath: .assets/icon.png
 
-import: github.com/set/traefik-middleware-request-logger
+import: github.com/set-de/traefik-middleware-request-logger
 
 summary: 'Logs request/resposes to stdout or via http post.'
 
