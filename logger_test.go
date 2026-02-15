@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	traefikmiddlewarerequestlogger "github.com/cookielab/traefik-middleware-request-logger" //nolint:depguard
+	traefikmiddlewarerequestlogger "github.com/set-de/traefik-middleware-request-logger" //nolint:depguard
 )
 
 func TestGetPlaintext(t *testing.T) {
