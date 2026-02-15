@@ -6,7 +6,7 @@ Add plugin into traefik static configuration
 experimental:
   plugins:
     traefik-middleware-request-logger:
-      moduleName: "github.com/cookielab/traefik-middleware-request-logger"
+      moduleName: "github.com/set-de/traefik-middleware-request-logger"
       version: "v0.0.7"
 ```
 
