@@ -1,4 +1,4 @@
-module github.com/cookielab/traefik-middleware-request-logger
+module github.com/set-de/traefik-middleware-request-logger
 
 go 1.19
 
